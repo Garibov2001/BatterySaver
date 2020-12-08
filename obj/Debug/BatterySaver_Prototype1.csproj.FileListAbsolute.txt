@@ -1,0 +1,9 @@
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\bin\Debug\BatterySaver_Prototype1.exe.config
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\bin\Debug\BatterySaver_Prototype1.exe
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\bin\Debug\BatterySaver_Prototype1.pdb
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\obj\Debug\BatterySaver_Prototype1.Properties.Resources.resources
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\obj\Debug\BatterySaver_Prototype1.csproj.GenerateResource.cache
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\obj\Debug\BatterySaver_Prototype1.exe
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\obj\Debug\BatterySaver_Prototype1.pdb
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\obj\Debug\BatterySaver_Prototype1.BatterySaverForm.resources
+C:\Users\qarib\Desktop\BatteryChargeProject\BatterySaver_Prototype1\obj\Debug\BatterySaver_Prototype1.MainAlert.resources

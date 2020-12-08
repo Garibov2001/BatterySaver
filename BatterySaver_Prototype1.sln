@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatterySaver_Prototype1", "BatterySaver_Prototype1.csproj", "{CED3C190-19E3-4B83-98FA-52302475A62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED3C190-19E3-4B83-98FA-52302475A62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED3C190-19E3-4B83-98FA-52302475A62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED3C190-19E3-4B83-98FA-52302475A62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED3C190-19E3-4B83-98FA-52302475A62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AF246A-184F-4F52-A873-E39E1250A1A4}
+	EndGlobalSection
+EndGlobal
